@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi! I'm Yogesh Shinde,<br>🎓I'm currently pursuing my Bachelor of Engineering in Electronics and Telecommunication Engineering at Pravara Rural Engineering College, Loni.<br>🔭 I’m currently working on Web Development projects.<br>🌱 I’m currently learning MERN tack and DSA in C++<br>
+👋 Hi! I'm Yogesh Shinde,<br>🎓I'm currently pursuing my Bachelor of Engineering in Electronics and Telecommunication Engineering at Pravara Rural Engineering College, Loni.<br>🔭 I’m currently working on Web Development projects.<br>🌱 I’m currently learning MERN stack and DSA in C++<br>
 
 
 ## 🌐 Socials:

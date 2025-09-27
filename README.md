@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yogesh Shinde</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **React , tailwind , node.js , express.js**
+- 🌱 I’m currently learning **Java, Spring boot, MongoDb, React.js, DSA**
 
-- 💬 Ask me about **React , tech**
+- 💬 Ask me about **React, tech**
 
-- 📫 How to reach me **Yogeshshinde3624@gmail.com**
+- 📫 How to reach me **work.yogeshshinde@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
